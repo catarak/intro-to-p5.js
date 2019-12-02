@@ -1,7 +1,7 @@
 # Introduction to p5.js
 
 ## Authors
-Cassie Tarakajian // [https://github.com/catarak](GitHub)
+Cassie Tarakajian // [Github](https://github.com/catarak)
 
 ## Essential Questions
 - What is computation? What is programming?
