@@ -15,6 +15,7 @@ In this workshop, we will be using p5.js to create interactive visual sketches. 
 
 ### Target Audience / Prerequisite & Pre-Assessment
 **Target Audience**: high school students, familiar with creative coding but no programming experience.
+
 **Prerequisites**: familiarity using computers to write text. 
 
 ### Outcomes & Goals
