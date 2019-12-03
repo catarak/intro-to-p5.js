@@ -49,7 +49,7 @@ Number of total hours the unit will take in a typical workshop session(s). Pleas
     - size (need to use map function, and this feels hard)
 
 ## Materials Needed
-What hardware, software, or other materials will students or teachers need for lessons.
+* Laptops or desktop computers for each student. 
 * Create an account on the [p5.js Web Editor](https://editor.p5js.org/).
 
 ### Exercises To Do Before Class
