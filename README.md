@@ -41,7 +41,10 @@ Students will walk away with a deeper understanding of writing and reading code 
   * translating colors from a color picker to your sketch
 * ~10 min Layering and order
   * making more complicated shapes via layering shapes
-* 
+* adding randomness
+  * using random() to get a random color
+* adding interaction
+  * getting mousePosition
 
 Number of total hours the unit will take in a typical workshop session(s). Please try to take into account transition time between instruction and hands on exercises if any prep is necessary.
 
@@ -81,10 +84,10 @@ Number of total hours the unit will take in a typical workshop session(s). Pleas
 * Look at the [p5.js examples](https://p5js.org/examples/) and get familiar with what you can do with the library. 
 
 ### Vocabulary
-* Program: A procedure, or set of instructions, that performs a specific task when executed by a computer. 
+* Program (or Coding): A procedure, or set of instructions, that performs a specific task when executed by a computer. 
 * Programming Language: The human-readable commands and syntax (or grammar rules) used to write programs. 
-* Creative programming
-* JavaScript
+* Creative coding: programming to create something expressive instead of something functional.
+* JavaScript: a high-level programming language. It is one of the most popular programming languages in the world!
 * Color
 * Shape
 * Interaction
@@ -102,7 +105,13 @@ Number of total hours the unit will take in a typical workshop session(s). Pleas
 
 
 ## Exercise Descriptions
-* Getting comfortable with p5.js
+* Getting grounded in p5.js
+* Basic shapes
+* Using colors
+* Adding randomness
+* Adding interaction
+* Create a self-portrait in p5.js using basic shapes. How can you layer shapes to make it look more realistic? How can you create something to look more cartoonish or stylized?
+
 Descriptions of each exercise or phase of class. Similar to pacing but with more description of steps.
 
 ## Student Reflections, Takeaways & Next Steps
