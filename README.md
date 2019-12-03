@@ -8,19 +8,17 @@ Cassie Tarakajian // [Github](https://github.com/catarak)
 - Why use programming as a tool to make art?
 - Who creates software?
 - How can we use programming in our daily lives?
+- What is p5.js? Why p5.js?
 
 ## Introduction
 In this workshop, we will be using p5.js to create interactive visual sketches. We will learn the basics of JavaScript code syntax to draw shapes, and use mous interaction.
 
 ### Target Audience / Prerequisite & Pre-Assessment
-Target Audience: high school students, familiar with creative coding but no programming experience.
-
-What age range is this exercise designed for and what do students and teachers need to know or be able to do to be successful in the workshop? Any coding languages they should already be comfortable with, any frameworks or tools they should have installed before class.
+**Target Audience**: high school students, familiar with creative coding but no programming experience.
+**Prerequisites**: familiarity using computers to write text. 
 
 ### Outcomes & Goals
-This can be easily answered by completing these example sentences:
-* In this workshop we will be… (soldering, setting up a RPi home network, making a wearable that communicates with….)
-* Students will walk away with a deeper understanding of…
+Students will walk away with a deeper understanding of writing and reading code syntax. They will also gain understanding in how to translate visual ideas and drawings into code. They will understand how to position and scale shapes, as well as use numbers to create colors, and add mouse interaction and randomness to their work. 
 
 ### Pacing / Duration
 Number of total hours the unit will take in a typical workshop session(s). Please try to take into account transition time between instruction and hands on exercises if any prep is necessary.
@@ -32,8 +30,12 @@ Number of total hours the unit will take in a typical workshop session(s). Pleas
 
 ## Materials Needed
 What hardware, software, or other materials will students or teachers need for lessons.
+* Create an account on the [p5.js Web Editor](https://editor.p5js.org/).
 
 ### Exercises To Do Before Class
+* Read the [p5.js Community Statement](https://p5js.org/community/).
+* Look at the [p5.js examples](https://p5js.org/examples/) and get familiar with what you can do with the library. 
+
 What materials (readings, tasks, exercises) should students complete before class to be prepared for the lesson.
 
 ### Vocabulary (example)
@@ -60,9 +62,3 @@ Include any sources cited, but not directly linked in the unit.
 
 ### Implementation Guidance & Teaching Reflection  
 e.g. Please provide some guidance based on experience delivering the unit and potential modifications might you are considering making for future iterations of this unit. This is an opportunity for you as the unit author to give teachers practical guidance.
-
-***With thanks and acknowledgement, we were inspired by the curriculum templates shared by [NYCDOE](http://blueprint.cs4all.nyc/units/40/) and [NYC Open Data](https://github.com/datapolitan/Data_Analytics_Classes/blob/gh-pages/Excel_Tools_Summarizing_Data.md)***
-
-## Ahead of Workshop
-* What is p5.js? Why p5.js?
-* Examples
