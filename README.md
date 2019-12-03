@@ -27,6 +27,26 @@ Number of total hours the unit will take in a typical workshop session(s). Pleas
   - :15 Overview, context, examples and vocabulary 
   - :20 Instruction & hands on exercise 
   - :15 Wrap-up discussion & sharing, reflection or journal and next steps
+  
+  Overall steps and stuff to teach:
+  - look at default code. 
+  - createCanvas: it's what we're drawing on, and how big it is, what is a pixel
+  - positioning: origin is in upper left-hand corner, y positive is down. 
+  - circle, x and y position, and size
+  - order matters! show putting background after circle
+  - parentheses and semicolons are important.
+  - different shapes - rectangles, triangles.
+  - stroke vs noStroke
+  - looking at p5 documentation
+  - colors (maybe this should be earlier)
+  - colors as text
+  - colors as numbers
+  - how to choose a color from the internet
+  - use mousePosition to do something
+  - how can you map mousePosition to something interesting with a portrait?? could map
+    - color
+    - shape
+    - size (need to use map function, and this feels hard)
 
 ## Materials Needed
 What hardware, software, or other materials will students or teachers need for lessons.
