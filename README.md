@@ -63,7 +63,8 @@ Students will walk away with a deeper understanding of writing and reading code 
 
 ### Exercises To Do Before Class
 * Read the [p5.js Community Statement](https://p5js.org/community/).
-* Look at the [p5.js examples](https://p5js.org/examples/) and get familiar with what you can do with the library. 
+* Look at the [p5.js examples](https://p5js.org/examples/) and get familiar with what you can do with the library.
+* Look at the inspiration section. What can you make with p5.js?
 
 ### Vocabulary
 * Program (or Coding): A procedure, or set of instructions, that performs a specific task when executed by a computer. 
@@ -77,6 +78,8 @@ Students will walk away with a deeper understanding of writing and reading code 
 
 ### Inspiration/Made with p5.js
 * [Zach Lieberman - Daily Sketches](https://www.instagram.com/zach.lieberman/)
+* [Dave Whyte - bees and bombs](https://twitter.com/beesandbombs)
+* [OpenProcessing](https://www.openprocessing.org/)
 * Student Work
   * [One](https://editor.p5js.org/projects/rkVOQTZ1e)
   * [Two](http://alpha.editor.p5js.org/projects/r1tH2e3A)
